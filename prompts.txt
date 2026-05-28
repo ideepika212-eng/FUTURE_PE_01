@@ -1,0 +1,11 @@
+Prompt Used:
+
+Write a professional homepage content for a photography studio named Family Tales Creations located in Hyderabad.
+
+The tone should be friendly and modern.
+
+Include:
+1. Hero section
+2. About section
+3. Services section
+4. Call To Action section
